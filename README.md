@@ -6,12 +6,12 @@
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- 
+- Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
--
+- Windows Server (2022)
 
 <h2>Accomplishments</h2>
 
